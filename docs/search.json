@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-22T02:21:30+08:00"
+      "contents": "\nAbout Me\nI’m Nuo Wen Lei from Shanghai, currently studying as a rising Senior at Concord Academy, MA. I like tennis, anime, chicken wings, and ramen.\nAbout the Project\nInfluence of Foreign-Connected PAC Donations on Representation in the US government\nPolitical Action Committees (PAC) are organizations that raise money to elect or beat candidates. Companies from foreign countries are able to donate to candidates through PACs, so this project aims to examine how foreign-connected PAC donations influence elections and party representation in the US.\nGoals\nVisualize distribution of donations from countries over time\nExamine change of US government representation along with donation amount over time\nx axis are different scales, so must convert to percentage before facet-wrapping\n\nDetermine connection between foreign-connected PAC donations of different parties and US government representation of the parties\n“This is Data Science”\nPreceptor\n\nKane’s Free High School Data Science Bootcamp\n\n\n\n",
+      "last_modified": "2021-06-22T03:02:33+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my project\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-06-22T02:21:33+08:00"
+      "last_modified": "2021-06-22T03:02:36+08:00"
     }
   ],
   "collections": []
